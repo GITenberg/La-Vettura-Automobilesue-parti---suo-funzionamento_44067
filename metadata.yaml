@@ -1,0 +1,26 @@
+_repo: La-Vettura-Automobilesue-parti---suo-funzionamento_44067
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Maria, Alamanno
+    alias: Maria, Alamanno de
+    gutenberg_agent_id: '42550'
+    url: http://www.gutenberg.org/2009/agents/42550
+description: ''
+gutenberg_bookshelf: IT Tecnologia
+gutenberg_issued: '2013-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44067'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TL'
+- !lcsh 'Automobiles'
+title: 'La Vettura Automobile: sue parti - suo funzionamento'
+url: http://www.gutenberg.org/ebooks/44067
